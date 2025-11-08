@@ -1,1 +1,2 @@
 For Q3: Asked Chatgpt what tests I should use (without giving answer in code). Did ask for a couple clues, I used the study and learn feature. 
+Q6: questions about assert on the whiten one
