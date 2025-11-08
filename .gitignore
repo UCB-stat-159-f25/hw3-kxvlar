@@ -1,6 +1,6 @@
-#copied from hw2
+# ----------------------------
 # Python
-
+# ----------------------------
 __pycache__/
 *.py[cod]
 *.so
@@ -10,27 +10,27 @@ __pycache__/
 *.pyd
 *.log
 
-
+# ----------------------------
 # Jupyter
-
+# ----------------------------
 .ipynb_checkpoints/
 *.nbconvert.ipynb
 *.ipynb~
 .notebook/
 *.out
 
-
+# ----------------------------
 # Environment / virtualenv
-
+# ----------------------------
 .env
 .venv/
 venv/
 env/
 ENV/
 
-
+# ----------------------------
 # OS and editors
-
+# ----------------------------
 .DS_Store
 Thumbs.db
 .vscode/
@@ -38,9 +38,9 @@ Thumbs.db
 *.swp
 *.swo
 
-
+# ----------------------------
 # Project-specific
-
+# ----------------------------
 # Ignore large data or temporary output
 LOSC_files/temp/
 *.png
@@ -48,7 +48,4 @@ LOSC_files/temp/
 *.dat
 *.json
 *.zip
-*.tar.gz/
-
-
-
+*.tar.gz
