@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: ligotools
+Version: 0.1.0
+Summary: LIGO packages for HW3
+Author: Ligo Scientific Collaboration (LSC)
+Author-email: Keval Amin <keval.amin@berkeley.edu>
+License-Expression: BSD-3-Clause
+Project-URL: Homepage, https://github.com/UCB-stat-159-f25/hw3-kxvlar
+Project-URL: Issues, https://github.com/UCB-stat-159-f25/hw3-kxvlar/issues
+Keywords: LIGO,gravitational waves,data analysis,stat159
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=2.0
+Requires-Dist: scipy>=1.13
+Requires-Dist: matplotlib>=3.9
+Requires-Dist: h5py>=3.12
+Requires-Dist: ipykernel>=6.29
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wOo27OxG)
