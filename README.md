@@ -5,3 +5,5 @@
 
 This project is amalgamates the skills we have been learning in Stat 159 (Reproducible and Collaborative Data Science) at UC Berkeley. 
 It is an extension of HW2: https://github.com/UCB-stat-159-f25/hw-2-kxvlar . This went over creating tests and editing parts of the document to make it more reproducible and structured as well as using binder links and launching a project website on github. 
+
+I worked on a forked repo whilst the pages were down therefore here is the link in case the github pull request didn't work: https://github.com/kxvlar/hw3-kxvlar, therefore the hosted site is https://kxvlar.github.io/hw3-kxvlar/losc-event-tutorial/ rather than on a stat-159 link. 
